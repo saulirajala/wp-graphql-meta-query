@@ -6,7 +6,7 @@
  * or newer.
  * Author: Jason Bahl
  * Author URI: http://www.wpgraphql.com
- * Version: 0.1.1
+ * Version: 0.2.0
  * Text Domain: wp-graphql-meta-query
  * Requires at least: 4.7.0
  * Tested up to: 4.7.1
@@ -82,7 +82,7 @@ class MetaQuery {
 
 		// Plugin version.
 		if ( ! defined( 'WPGRAPHQL_METAQUERY_VERSION' ) ) {
-			define( 'WPGRAPHQL_METAQUERY_VERSION', '0.1.1' );
+			define( 'WPGRAPHQL_METAQUERY_VERSION', '0.2.0' );
 		}
 
 		// Plugin Folder Path.
